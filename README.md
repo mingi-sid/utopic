@@ -1,6 +1,6 @@
 # Unified Neural Topic Model via Contrastive Learning and Term Weighting (EACL2023)
 
-![](docs/structure-1.png)
+![](structure-1.png)
 
 ## Requirements
 - Python 3.7
